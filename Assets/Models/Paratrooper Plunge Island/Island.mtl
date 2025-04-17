@@ -1,0 +1,46 @@
+newmtl _ec735f6.png
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd field.png
+map_d field.png
+
+newmtl _cd19980.png
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd leaves.png
+map_d leaves.png
+
+newmtl _bcfe852.png
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd island2.png
+
+newmtl _8fcbf72.png
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd island4.png
+
+newmtl ce515aee.png
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd island3.png
+
+newmtl _3be2534.png
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd island1.png
+
+newmtl _a9c30ed.png
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd water.png
+
+newmtl c7ee9dfc.png
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd trunk.png
+
+newmtl _0bb3087.png
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd seabed.png

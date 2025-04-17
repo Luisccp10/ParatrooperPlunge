@@ -1,0 +1,56 @@
+# Material file for daisy.obj
+
+newmtl Tex_0002_0_dds
+	Ns 10
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.0 0.0 0.0
+	Ka 0.588 0.588 0.588
+	map_Kd Tex_0002_0.png
+
+newmtl Tex_0003_0_dds
+	Ns 10
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.0 0.0 0.0
+	Ka 0.588 0.588 0.588
+	map_Kd Tex_0003_0.png
+
+newmtl Tex_0004_0_dds
+	Ns 10
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.0 0.0 0.0
+	Ka 0.588 0.588 0.588
+	map_Kd Tex_0004_0.png
+
+newmtl Tex_0005_0_dds
+	Ns 10
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.0 0.0 0.0
+	Ka 0.588 0.588 0.588
+	map_Kd Tex_0005_0.png
+
+newmtl Tex_0006_0_dds
+	Ns 10
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.0 0.0 0.0
+	Ka 0.588 0.588 0.588
+	map_Kd Tex_0006_0.png
+
+newmtl Tex_0008_0_dds
+	Ns 10
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.0 0.0 0.0
+	Ka 0.588 0.588 0.588
+	map_Kd Tex_0008_0.png
+
